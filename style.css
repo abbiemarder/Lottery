@@ -1,0 +1,52 @@
+.nav-link {
+    transition: 0.3s ease;
+    color: white !important;
+    font-size: 30px;
+    text-decoration: none;
+    border-top: 4px solid transparent;
+    border-bottom: 4px solid transparent;
+    font-family: 'Patrick Hand SC', cursive;
+}
+body {
+    background-color: #ffbb00 ;
+}
+.active {
+    font-weight: bolder;
+    color:#157928  !important;
+}
+
+.nav-link:hover {
+    padding: 6px 0;
+    color:#157928 !important;
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 35px;;
+}
+
+.nav-link1:hover {
+    border-top: 4px solid white;
+    border-bottom: 4px solid white;
+    padding: 6px 0;
+    color: #157928 !important;
+    font-family: 'Patrick Hand SC', cursive;
+}
+main li:before {
+    content: '🍀';
+    margin-left: -31px;
+    padding-right: 8px;
+}
+.first {
+    text-decoration: underline;
+}
+.highlight1 {
+  background-color: #229c38;
+    border-color: #229c38;
+    border-width: 100px;;
+    border-radius: 40px;
+}
+.highlight2 {
+    background-color: #30c04a;
+    border-color: #30c04a;
+    border-width: 100px;
+    ;
+    border-radius: 40px;
+}
