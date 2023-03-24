@@ -1,0 +1,22 @@
+.contentWrapper {
+    
+
+}
+.bg {
+background-color: #30c04a;
+padding: 20px 30px;
+    font-size: 30px;
+    border-radius: 10px;
+}   
+.textfield {
+    padding: 20px 30px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    max-width: 300px;
+}
+
+.textfield .form-text-area {
+    background-color: #f0f4f5;
+    height: auto;
+    padding-left: 20px;
+}
