@@ -56,3 +56,15 @@ main li:before {
         color: white;
         font-size: 45px;;
 }
+    .bg {
+            background-color: #229c38;
+            padding: 20px 30px;
+            font-size: 30px;
+            border-radius: 10px;
+                font-family: 'Roboto Condensed', sans-serif;
+        }
+        .title{
+            font-family: 'Roboto Condensed',
+        sans-serif;
+        font-size: 40px;
+        }
